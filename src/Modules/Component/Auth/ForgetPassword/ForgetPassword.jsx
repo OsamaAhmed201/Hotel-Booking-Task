@@ -59,9 +59,9 @@ export default function ForgetPassword() {
       {loading ? (
         <LoadingPage />
       ) : (
-        <div className="register bg-gray-100 h-screen py-10">
-          <div className="flex items-center rounded-xl overflow-hidden">
-            <div className="md:w-7/12 mx-auto w-full p-6 md:p-10 bg-white rounded-2xl">
+        <div className="register bg-gray-100 h-screen ">
+             <div className="min-h-screen flex items-center justify-center  ">
+            <div className="md:w-6/12 mx-auto w-full p-6 md:p-10 bg-white rounded-2xl">
               {dispalyForm ? (
                 <>
                   <h2 className="text-2xl md:text-3xl font-bold text-gray-800 mb-3">
