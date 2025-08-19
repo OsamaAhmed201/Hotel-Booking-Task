@@ -15,7 +15,7 @@ export default function Rooms() {
   const { t } = useTranslation();
 
   var settings = {
-    dots: true,
+    
     infinite: true,
     speed: 1000,
     autoplay: true,
