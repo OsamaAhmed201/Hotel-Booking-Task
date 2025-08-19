@@ -16,6 +16,7 @@ import Servicess from "./Modules/Component/Pages/ComponentShere/Services/Service
 import Rooms from "./Modules/Component/Pages/ComponentShere/Rooms/Rooms.jsx"
 import Enjoyable from "./Modules/Component/Pages/ComponentShere/Enjoyable/Enjoyable.jsx"
 import Notfound from './Modules/Component/Pages/ComponentShere/Notfound/Notfound';
+import MasterLayout from "./Modules/Component/Pages/MasterLayout/MasterLayout.jsx"
 
 
 function App() {
@@ -47,6 +48,21 @@ function App() {
         { path: "rooms", element: <ProtectedRoute><Rooms /></ProtectedRoute> },
 
         { path: "*", element: <ProtectedRoute><Notfound/></ProtectedRoute> },
+
+
+      ]
+    },
+    {
+      path: "/home",
+      element:<ProtectedRoute><MasterLayout /></ProtectedRoute> ,
+      children: [
+       
+        { index: true, element: <Home /> },
+        { path: "about", element: <About /> },
+        { path: "services", element: <Servicess /> },
+        { path: "blog", element: <Enjoyable /> },
+        { path: "rooms", element: <Rooms /> },
+        { path: "*", element: <Notfound/> },
 
 
       ]

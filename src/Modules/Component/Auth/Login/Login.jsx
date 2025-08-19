@@ -36,9 +36,9 @@ export default function Login() {
         <LoadingPage />
       ) : (
         <div className="register w-11/12 mx-auto ">
-        <div className="min-h-screen flex items-center justify-center  p-4">
+        <div className="min-h-screen flex items-center justify-center  ">
 
-            <div className="md:w-7/12 w-full p-6 md:p-10 bg-white rounded-2xl  py-8">
+            <div className="md:w-7/12 w-full  md:p-10 bg-white rounded-2xl  py-8">
               <div>
                 <h2 className="text-2xl md:text-3xl font-bold text-gray-800 mb-3">
                   Welcome to Flxyland
