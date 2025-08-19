@@ -1,0 +1,7 @@
+.videoRegister {
+    height: 90vh;
+    object-fit: cover;
+    width: 80%;
+    margin: auto;
+    border-radius: 20px;
+}

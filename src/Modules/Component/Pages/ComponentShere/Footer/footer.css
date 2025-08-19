@@ -1,0 +1,5 @@
+.FooterImg {
+    background-image: url(./../../../../../assets/dotted-map.png);
+    background-position: center center;
+    background-size: cover;
+}

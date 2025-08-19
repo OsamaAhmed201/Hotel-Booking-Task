@@ -1,0 +1,148 @@
+{
+    "navbar": {
+        "home": "Home",
+        "about": "About",
+        "roomsSuites": "Rooms & Suites",
+        "services": "Services",
+        "blog": "Blog",
+        "contact": "Contact"
+    },
+
+    "header": {
+        "title1": "Book With Best",
+        "title2": "Luxury Hotel",
+        "desc": "Enjoy a luxurious stay with premium services at the finest hotels",
+        "desc2": "Where comfort meets elegance for an unforgettable experience.",
+        "btnExplore": "Explore More",
+        "btnServices": "Our Services"
+    },
+    "about": {
+        "badge": "ABOUT FIXYLAND",
+        "title": "World Class Luxury Hotel and Resort Near City",
+        "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even.",
+        "features": [
+            "24-Hours Emergency Service",
+            "It is a Long Established fact",
+            "Comfortable Atmosphere",
+            "Flexible and Cost-Effective",
+            "Something by accident",
+            "Get Free Consultation Anytime"
+        ],
+        "ceo": {
+            "name": "Robert L. Robinson",
+            "role": "CEO & Founder"
+        },
+        "years": "30 YEARS OF HOTEL BUSINESS"
+    },
+    "rooms": {
+        "title": "The Best Luxury Rooms And Suites",
+        "night": "Night",
+        "guests": "Guests",
+        "beds": "Beds",
+        "baths": "Bath",
+        "desc": "There are many variations of passages of Lorem Ipsum...",
+        "readMore": "Read More",
+        "types": {
+            "deluxe": "Deluxe Room",
+            "superior": "Superior Room",
+            "suite": "Suite Room",
+            "family": "Family Room",
+            "luxury": "Luxury Suite",
+            "standard": "Standard Room"
+        }
+
+    },
+    "services": {
+        "section_small_title": "Hotel Services",
+        "section_big_title": "Get The Best Hotel Fixyland Services",
+        "section_paragraph": "Nulla vitae eu nunc. Morbi purus convallis, fermentum iaculis metus vulputat design sodales purus. Nunc quis quam musa elit.",
+        "button": "View All →",
+
+        "fitness_title": "Fitness Center",
+        "fitness_desc": "Stay active with our fully equipped fitness center.",
+
+        "jacuzzi_title": "Jacuzzi",
+        "jacuzzi_desc": "Relax and unwind in our luxurious jacuzzi.",
+
+        "swimming_title": "Swimming Pool",
+        "swimming_desc": "Enjoy a refreshing swim in our spacious pool.",
+
+        "spa_title": "SPA Treatments",
+        "spa_desc": "Rejuvenate your body and mind with our relaxing spa treatments."
+    },
+    "enjoyable": {
+        "small_title": "Food & Drink",
+        "big_title": "Quality Food And Drink To Make Your Trip Enjoyable",
+        "paragraph": "Enjoy delicious meals and refreshing drinks prepared with care to make your stay more delightful.",
+        "features": {
+            "breakfast_title": "Free Breakfast, Tea & Coffee",
+            "breakfast_desc": "Start your day with complimentary breakfast, tea, and coffee for a fresh beginning.",
+            "quality_title": "Quality Foods & Drink",
+            "quality_desc": "We serve high-quality food and beverages made with the finest ingredients.",
+            "restaurant_title": "Restaurant & Bar",
+            "restaurant_desc": "Relax at our restaurant & bar with a variety of meals and drinks to suit every taste."
+        },
+        "button": "Learn More Hotel"
+    },
+    "discount": {
+        "small_title": "Special Offers",
+        "big_title": "Special Discount for Hotel & Resort Booking",
+        "card1": {
+            "offer": "30% Off",
+            "title": "Get 30% Off on Hotel Booking",
+            "button": "Book Now"
+        },
+        "card2": {
+            "offer": "35% Off",
+            "title": "Get 35% Off on Resort Booking",
+            "button": "Book Now"
+        }
+    },
+    "feedback": {
+        "hotel_alt": "Hotel Lobby",
+        "title_small": "Testimonial",
+        "title_big": "Amazing Feedback Say About Services",
+        "testimonial_text": "Special treat to dine, it was wow experience food was really delicious outstanding dinner made by Master Chef. Food experience was unforgettable!",
+        "person_name": "Bella Andrew",
+        "person_role": "Customer"
+    },
+    "staff": {
+        "title": "FIXYLAND STAFF",
+        "subtitle": "Expert Staff Persons",
+        "michaelDean": "Michael Dean",
+        "arnoldTaylor": "Arnold Taylor",
+        "chefMaster": "Chef Master",
+        "roomCleaner": "Room Cleaner",
+        "assistantChef": "Assistant Chef",
+        "supervisor": "Supervisor"
+    },
+    "flxyland": {
+        "hotelNews": "Hotel News",
+        "getUpdate": "Get More Update For Flxyland",
+        "hotel": "Hotel",
+        "room": "Room",
+        "hotelAlAzhar": "Hotel AlAzhar",
+        "deluxeRoom": "Deluxe Room",
+        "guests": "Guests",
+        "beds": "Beds",
+        "baths": "Bath",
+        "description": "There are many variations of passages of Lorem Ipsum...",
+        "readMore": "Read More"
+    },
+    "footer": {
+        "name": "Fixyland",
+        "description": "Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus maxime placeat facere.",
+        "explore": "EXPLORE",
+        "about": "About Hotel",
+        "pricing": "Pricing",
+        "staff": "Hotel Staff",
+        "news": "Latest News",
+        "contact": "Contact Us",
+        "address": "7523 Sabina Walk, TN, Derson St., Louisiana, USA",
+        "phone": "(+1) 987 654 3210",
+        "email": "info@domain.com",
+        "newsletter": "NEWSLETTER",
+        "emailPlaceholder": "Ex. info@domain.com",
+        "terms": "I agree to all terms and policies"
+    }
+}

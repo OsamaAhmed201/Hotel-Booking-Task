@@ -1,0 +1,15 @@
+.contanin_services {
+    background-color: white;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    transition: 0.8s ease;
+    z-index: 1;
+}
+
+.contanin_services:hover {
+    background-color: rgb(64, 124, 144);
+    opacity: 0.8;
+}
